@@ -1,7 +1,7 @@
-var num 42;
+var num=45
  if(num %2==0){
     consloe.log(num)
  }
  else(num%2==0){
-    consloe.log(no num)
+    consloe.log(not a num)
  }

@@ -1,0 +1,46 @@
+#{
+    padding: 0;
+    margin: 0;
+    font-family: poppins; snas-sarif:
+    
+}
+h1{
+    align-items: center;
+}
+.containar{
+    width: 100;
+    height: 100;
+    background-color: rgb(80, 126, 167);
+
+    
+    align-items: center 20;
+    border-radius: 10;
+}
+.caluclator form input tpye{
+    border:0 ;
+    outline: 0;
+    width: 60px; 
+    height: 60px;
+    border-radius: 10px;
+    box-shadow: -8px -8px 15px,rgba(225 ,225,225,0.1), 5px 5px 15px rgba(0,0,0,0.2);
+    fontsize:20px;
+    color: #fff;
+    cursor:pointer;
+    margin: 10px;
+
+}
+from.display{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 0;
+}
+from.display input{
+      text-align: right;
+      flex:1 ;
+    font-size: 45px;
+    box-shadow: none;
+}
+from.operators{
+    color: blue;
+
+}
