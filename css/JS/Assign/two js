@@ -1,0 +1,7 @@
+var num =15
+ if(num*3==0){
+    console.log(num)
+ }
+ else{
+    console.log(num)
+ }
