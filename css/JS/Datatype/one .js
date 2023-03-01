@@ -1,0 +1,10 @@
+var product_name = "iphone";
+var pice =999;
+var rating =3.7;
+var discount =true;
+var size =35;
+ console.log(typeof(product_name));
+ console.log(typeof(price));
+ console.log(typeof(rating));
+ console.log(typeof(discount));
+ console.log(typeof(size));
