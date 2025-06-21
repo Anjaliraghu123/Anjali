@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: rgb(28, 40, 25);
+    margin-top: 50px;
+    padding: 20px;
+    color: white;
+
+}
+
+
+  .btn-group{
+    display: flex;
+    
+    gap: 0;
+  }  
+
+.btn-right,.btn-left{
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 5px;
+    
+    
+}
+.btn-left:hover{
+    background-color: rgb(50, 188, 142);
+    cursor: pointer;
+}
+.btn-right:hover{
+        background-color: rgb(18, 81, 60);
+        cursor: pointer;
+
+}
+.btn-left{
+    background-color: #244834;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    
+    
+}
+.btn-right{
+    background-color: darkgrey;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
