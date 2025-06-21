@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+}
+.you{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:50px;
+    padding: 15px;
+
+}
+h4{
+    display: flex;
+    margin-top:20px;
+    margin-left: 60px;
+    background-color: rgb(223, 236, 248);
+    width: 79%;
+    padding:14px;
+ 
+
+}
+.example{
+    display: flex;
+    justify-content: left;
+    margin-left: 60px;
+    background-color: rgb(223, 236, 248);
+    padding:19px;
+    margin-top: 0px;
+    width: 78%;
+    
+.vero{
+    background-color: #ffff;
+    padding: 30px;
+    color: #28ad1f;
+    margin-bottom: 50px;
+
+    
+
+     
+}
+.line{
+    width : 1px;
+    background-color: rgb(18, 132, 16);
+    padding: 1px;
+    height: 150px;
+}
+  
+
+
+}
+.button-8{
+    display: flex;
+    margin-top:-50px;
+    margin-left: 70px;
+    background-color: #28ad1f;
+    color: #ffff;
+    border-radius: 5px;
+    border: none;
+    font-size: 17px;
+    padding: 10px 30px;
+    
+
+
+        
+
+
+}
+
+
+    
+
